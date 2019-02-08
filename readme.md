@@ -1,0 +1,1 @@
+This is a beginner friendly ML project. The objectives for this project are to analyse the red wine dataset using Python and determine an optimal machine learning model to predict the quality of red wine.
